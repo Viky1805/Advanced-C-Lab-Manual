@@ -15,13 +15,34 @@ Else
 6.	Return 0
  
 Program:
+```
+#include<stdio.h> struct eligib
+{
+int age; char n[4];
+};
+int main()
+{
+struct eligib e; scanf("%d%s",&e.age,e.n);
+if(e.age<=6)
+{
+printf("Age:%d\nName:%svaccine:%d\neligibility:no",e.age,e.n,e.age);
+}
+ 
+else
+{
+}
+ 
 
-//type your code here
+printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
+ 
 
+}
+
+```
 
 Output:
 
-//paste your output here
+![Screenshot 2025-04-25 102120](https://github.com/user-attachments/assets/875d7abd-3282-4d64-96f7-b69834282f0a)
 
 
 Result:
