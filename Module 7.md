@@ -42,7 +42,7 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 
 Output:
 
-![Screenshot 2025-04-26 102120](https://github.com/user-attachments/assets/875d7abd-3282-4d64-96f7-b69834282f0a)
+![Screenshot 2025-04-25 102120](https://github.com/user-attachments/assets/875d7abd-3282-4d64-96f7-b69834282f0a)
 
 
 Result:
